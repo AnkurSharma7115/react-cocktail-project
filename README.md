@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Project - 15 Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See the deployed project [HERE](https://react-cocktail-project-i0ja7fm23-ankursharma7115.vercel.app).
 
 ## Available Scripts
 
